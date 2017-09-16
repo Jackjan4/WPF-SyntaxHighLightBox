@@ -1,4 +1,4 @@
-# WPFSyntaxHighLightBox
+# WPF SyntaxHighLightBox
 
 
 
